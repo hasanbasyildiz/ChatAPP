@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "410345311996",
+    "project_id": "chatappforhasan",
+    "storage_bucket": "chatappforhasan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410345311996:android:97bb6772b03563f19cd179",
+        "android_client_info": {
+          "package_name": "com.example.chatappforhasan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg4BJ32kBrEYu9iebVb_eqCP-x_OtI0Vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
